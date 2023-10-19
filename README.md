@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manolis Vouvakis</h1>
-<h3 align="center">A passionate economist for Data Analytics</h3>
+<h3 align="center">Ambitious Business Analyst with academic background in Economics</h3>
 
-- 🌱 I’m currently studying for **my Master's Degree in Business and Data Analytics**
+- 🌱 **Finished my Master's Degree in Business and Data Analytics**
 - 👨‍💻 All of my projects are available at [https://emvouvakis.github.io/](https://emvouvakis.github.io/)
 
 <h3 align="left">Connect with me:</h3>
