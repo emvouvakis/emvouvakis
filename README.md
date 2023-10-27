@@ -1,8 +1,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  I'm on a journey of exploration and creation in the world of technology. 
-  Join me on this exciting journey and explore the fascinating projects I've created along the way. 👨‍💻
+I'm on a journey of exploration in the world of technology. Join me on this exciting journey and explore the projects I've created along the way. 👨‍💻
 </p>
 
 <h2 align="center">About Me</h2>
