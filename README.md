@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Manolis Vouvakis</h1>
-<h3 align="center">Ambitious Business Analyst with academic background in Economics</h3>
+<h1 align="center">Hello, World! 👋</h1>
 
-- 🌱 **Finished my Master's Degree in Business and Data Analytics**
-- 👨‍💻 All of my projects are available at [https://emvouvakis.github.io/](https://emvouvakis.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manolis-vouvakis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manolis vouvakis" height="30" width="40" /></a>
+<p align="center">
+  I'm on a journey of exploration and creation in the world of technology. 
+  Join me on this exciting journey and explore the fascinating projects I've created along the way. 👨‍💻
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h2 align="center">About Me</h2>
+
+- 👨‍💼 I'm currently working as a Business Analyst, where I apply my expertise in data analytics and problem-solving.
+- 🔭 I'm actively involved in exciting AWS projects, enhancing my skills in cloud computing and data management.
+- 🌱 I'm always striving for personal and professional development.
+
+<h2 align="center">Education</h2>
+
+- 🎓 BSc in Economics
+- 🎓 MSc in Business and Data Analytics
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Learner-yellow?style=for-the-badge&logo=amazon-aws" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/Python-Lover-blue?style=for-the-badge&logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Snowflake-Enthusiast-lightblue?style=for-the-badge&logo=snowflake" alt="Snowflake Badge">
+  <img src="https://img.shields.io/badge/QlikSense-Enthusiast-green?style=for-the-badge&logo=qlik" alt="QlikSense Badge">
+</p>
+
+<p align="center">
+  Feel free to explore my repositories and reach out if you share similar interests or want to collaborate on something amazing. 😄
+</p>
+
+<h2 align="center">Contact Me</h2>
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manolis-vouvakis/).
+- 🌐 Explore my online portfolio [here](https://emvouvakis.github.io/).
