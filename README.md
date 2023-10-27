@@ -24,9 +24,7 @@ I'm on a journey of exploration in the world of technology. Join me on this exci
   <img src="https://img.shields.io/badge/QlikSense-Enthusiast-green?style=for-the-badge&logo=qlik" alt="QlikSense Badge">
 </p>
 
-<p align="center">
-  Feel free to explore my repositories and reach out if you share similar interests or want to collaborate on something amazing. 😄
-</p>
+
 
 <h2 align="center">Contact Me</h2>
 
