@@ -22,11 +22,12 @@ I'm on a journey of exploration in the world of technology. Join me on this exci
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Learner-yellow?style=for-the-badge&logo=amazon-aws" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Python-Lover-blue?style=for-the-badge&logo=python" alt="Python Badge">
   <img src="https://img.shields.io/badge/Snowflake-Enthusiast-lightblue?style=for-the-badge&logo=snowflake" alt="Snowflake Badge">
-  <img src="https://img.shields.io/badge/QlikSense-Enthusiast-green?style=for-the-badge&logo=qlik" alt="QlikSense Badge">
 </p>
+
+
 
 
 
